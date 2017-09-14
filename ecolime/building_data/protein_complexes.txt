@@ -908,7 +908,7 @@ DSERDEAM-MONOMER	default_name	b2366(1)	M_protein_recon
 CDPDIGLYPYPHOSPHA-MONOMER	default_name	b3918(1)	M_protein_recon
 SelA_deca	selenocysteine synthase (EC:2.9.1.1)	b3591(10)	2011_Updated_E_recon
 RrmA_dim	23S rRNA m(1)G745 methyltransferase (EC:2.1.1.51)	b1822(2)	2011_Updated_E_recon
-#YbbB_dim	tRNA 2-selenouridine synthase, selenophosphate-dependent	b0503(2)	2011_Updated_E_recon
+YbbB_dim	tRNA 2-selenouridine synthase, selenophosphate-dependent	b0503(2)	2011_Updated_E_recon
 UDPNACETYLGLUCOSAMACYLTRANS-CPLX	default_name	b0181(3)	M_protein_recon
 CPLX0-7704	default_name	b0914(2)	M_protein_recon
 NAPAB-CPLX_NAPC-MONOMER	default_name	b2202() AND b2203() AND b2206()	M_protein_recon
@@ -1227,7 +1227,7 @@ EG11350-MONOMER	default_name	b3629(1)	M_protein_recon
 ABC-9-CPLX	default_name	b4287(2) AND b4290(1) AND b4288(1) AND b4289(1)	M_protein_recon
 H2PTERIDINEPYROPHOSPHOKIN-MONOMER	default_name	b0142(1)	M_protein_recon
 FEOB-MONOMER	default_name	b3409(1)	M_protein_recon
-#YadB_mono	glutamyl-Q tRNA(Asp) synthetase (EC:6.1.1.-)	b0144(1)	2011_Updated_E_recon
+YadB_mono	glutamyl-Q tRNA(Asp) synthetase (EC:6.1.1.-)	b0144(1)	2011_Updated_E_recon
 S-ADENMETSYN-CPLX	default_name	b2942(4)	M_protein_recon
 RplF_mono	50S ribosomal subunit protein L6	b3305(1)	2011_Updated_E_recon
 TMAOREDUCTI-CPLX	default_name	b0996() AND b0997(2)	M_protein_recon
@@ -1299,7 +1299,7 @@ TatE_MONOMER	defualt_name	b0627(1)	2011_Updated_E_recon
 TatBC_octa	default_name	b3838(8) AND b3839(8)	2011_Updated_E_recon
 SecA_MONOMER	default_name	b0098(1)	2011_Updated_E_recon
 SecB_tetra	default_name	b3609(4)	2011_Updated_E_recon
-SRP-CPLX	default_name	b2610(1) AND b0455(1)	2011_Updated_E_recon
+SRP-CPLX	default_name	b2610(1) AND b3464(1)	2011_Updated_E_recon
 Sec-CPLX	default_name	b3300(1) AND b3981(1) AND b3175(1) AND b0408(1) AND b0409(1)	2011_Updated_E_recon
 SecYE-CPLX	Sec CPLX without secG	b3300(1) AND b3981(1) AND b0408(1) AND b0409(1)	2011_Updated_E_recon
 LolA_MONOMER	default_name	b0891(1)	2011_Updated_E_recon
@@ -1320,3 +1320,10 @@ LspA_MONOMER	Signal peptidase II	b0027(1)	2011_Updated_E_recon
 FtsY_MONOMER	SRP receptor	b3464(1)	2011_Updated_E_recon
 #SpeA_precursor	default_name	b2938(1)	2011_Updated_E_recon
 #ARGDECARBOXBIO-CPLX_mod_4:pydx5p	default_name	SpeA_mod_pydx5p(4)	M_protein_recon
+trmL_dim	default_name	b3606(2)	 tRNA_Update_Eddie
+EG11503_MONOMER	default_name	b0195(1)	 tRNA_Update_Eddie
+TsaBCDE	default_name	b3064(1) AND b1807(1) AND b4168(1) AND b3282(1)	 tRNA_Update_Eddie
+TcdA_dim	default_name	b2812(2)	 tRNA_Update_Eddie
+#generic_Dus	default_name	b4049(2) AND b2140(1) AND b3260(1)	 eddie update in GenericData
+RsmJ_MONOMER	default_name	b3497(1)	rRNA_Update_Eddie
+RlmJ_MONOMER	default_name	b3499(1)	rRNA_Update_Eddie
